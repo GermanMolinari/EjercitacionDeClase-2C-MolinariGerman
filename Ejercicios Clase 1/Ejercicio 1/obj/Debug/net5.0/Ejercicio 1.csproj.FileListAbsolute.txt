@@ -1,0 +1,16 @@
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.exe
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.deps.json
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.json
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.dev.json
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.dll
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.dll
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\refint\Ejercicio 1.dll
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\bolsi uwu\source\repos\Ejercicios Clase 1\Ejercicio 1\obj\Debug\net5.0\ref\Ejercicio 1.dll
