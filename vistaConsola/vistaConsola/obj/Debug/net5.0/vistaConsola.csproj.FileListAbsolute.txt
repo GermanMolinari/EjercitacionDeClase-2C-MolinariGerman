@@ -1,0 +1,16 @@
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\bin\Debug\net5.0\vistaConsola.exe
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\bin\Debug\net5.0\vistaConsola.deps.json
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\bin\Debug\net5.0\vistaConsola.runtimeconfig.json
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\bin\Debug\net5.0\vistaConsola.runtimeconfig.dev.json
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\bin\Debug\net5.0\vistaConsola.dll
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\bin\Debug\net5.0\vistaConsola.pdb
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.csproj.AssemblyReference.cache
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.AssemblyInfoInputs.cache
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.AssemblyInfo.cs
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.dll
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\refint\vistaConsola.dll
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.pdb
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\vistaConsola.genruntimeconfig.cache
+C:\Users\bolsi uwu\source\repos\vistaConsola\vistaConsola\obj\Debug\net5.0\ref\vistaConsola.dll
